@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint */js --fix",
+    "coverage": "codecov",
     "test": "jest"
   },
   "repository": {
