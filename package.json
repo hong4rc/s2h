@@ -1,0 +1,30 @@
+{
+  "name": "s2h",
+  "version": "0.0.1",
+  "description": "SSH url to HTTPS url",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint */js --fix",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongarc/s2h.git"
+  },
+  "keywords": [
+    "ssh",
+    "https"
+  ],
+  "author": "Hongarc <aqua.hong.97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hongarc/s2h/issues"
+  },
+  "homepage": "https://github.com/Hongarc/s2h#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  }
+}
