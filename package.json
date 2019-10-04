@@ -4,7 +4,7 @@
   "description": "SSH url to HTTPS url",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint */js --fix",
+    "lint": "eslint *.js --fix",
     "coverage": "codecov",
     "test": "jest"
   },
